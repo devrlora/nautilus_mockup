@@ -1,0 +1,19 @@
+.Article-grid-parent{
+    display: flex;
+    position: relative;
+    height: 100px;
+}
+
+.Article-grid{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0%;
+    padding-right: 0%;
+    position: absolute;
+}
+.Article-page-btn{
+    border-color: black;
+}
