@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Page1 from './Components/Page1'
+import Page2 from './Components/Page2'
 
 function App() {
   return (
@@ -9,6 +10,8 @@ function App() {
       </header>
       <body>
         <Page1 />
+        <br/>
+        <Page2 />
       </body>
     </div>
   );
