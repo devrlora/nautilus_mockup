@@ -7,8 +7,8 @@ import './Page1.css'
 class Page1 extends Component{
     render(){
         return (
-            <div className='landing-grid'>
-                <div className='landing-grid-img'>
+            <div className='landing-grid-parent'>
+                <div className='landing-grid'>
                 <img src={matches} alt="matches"/> 
                 <div className='Landing-page'>
                     <h2>Issue 079</h2>
