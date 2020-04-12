@@ -1,0 +1,27 @@
+.landing-grid{
+   display: flex;
+   flex-direction: row;
+   justify-content:center;
+   width: 100%;
+   margin-left: 0px;
+   margin-right: 0px;
+   padding-left: 0%;
+   padding-right: 0%;
+   position: relative;
+}
+.landing-grid-img{
+    position: absolute;
+}
+
+
+.Landing-page{
+position: absolute;
+align-items: flex-start;
+align-content: center;
+}
+.Landing-page-btn {
+    background-color: black;
+    color: white;
+    height: 20px;
+    align-items: center;
+ }
