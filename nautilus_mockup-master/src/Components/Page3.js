@@ -11,8 +11,8 @@ class Page3 extends Component{
                 <div className='Article-grid'>
                 <img src={clovercard} alt="clovercard"/> 
                 <div className='Article-page'>
-                    <h3>The Nautilus Spotlight</h3>
-                    <h2>Why The Laws Of Physics Are Inevitable</h2>
+                    <h3 >The Nautilus Spotlight</h3>
+                    <h2 className='p3-text'>Why The Laws Of Physics Are Inevitable</h2>
                     <button className='Article-page-btn'>  
                         Read Now</button>
                 </div>
