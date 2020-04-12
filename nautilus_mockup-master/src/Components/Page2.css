@@ -1,4 +1,6 @@
 .nav-grid{
 display: flex;
 flex: flex-end;
+flex-direction: row;
 }
+
